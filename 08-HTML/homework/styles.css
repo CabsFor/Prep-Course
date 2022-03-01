@@ -1,3 +1,11 @@
+
+
+body{
+  background-image: url("https://png.pngtree.com/png-clipart/20210819/ourlarge/pngtree-sketch-style-pencil-drawing-black-wave-seascape-sea-waves-png-image_3807553.jpg");
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 h1{
   color: red;
 }
